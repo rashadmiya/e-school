@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.custom-container{
+    margin: 5rem 0;
+}
+.navbar-brand img{
+    height: 3.2em;
+    width: 10em;
+}
+
+.signin {
+padding: 0 2em;
+background-color: #21b573;
+line-height: 2.2em;
+color: white;
+border-radius: 2em;
+border: none;
+}
+.signin a{
+    color: white;
+    text-decoration: none;
+}
+
+.nav-link{
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.fw-bold{
+    font-weight: 700;
+    font-size: 3.5em;
+}
+.margin-bottom-5em {
+    margin-bottom: 5em;
+}
+.margin-top-5em {
+    margin-top: 5em;
+}
+.cards img{
+    width: 10em;
+    height: 10em;
+    margin: auto;
+}
+.custom-cal{
+    width: 30px;
+}
+.custom-cal:hover{
+    box-shadow: 0px 2px 22px 2px gray;
+    border-radius: 1em;
+}
+.custom-hr{
+     width: 50%;
+     background: linear-gradient(to right,green, orange);
+     height: 6px;
+     margin: auto;
+     border-radius: 2em;
+}
+.col-custom{
+    display: inline-block;
+    width: 30%;
+    margin: auto;
+    box-shadow: 0px 2px 22px 2px gray;
+    border-radius: 1em;
+}
+.card-footer img{
+    height: 2em;
+    width: 2em;
+    display: inline-block;
+}
+.rounded-circle{
+    width: 20em;
+    height: 20em;
+}
+
+footer ul li {
+    list-style: none;
+}
+.custom-button{
+    width: 7em;
+    height: 2em;
+    margin-left: 1em;
+    border: 1px solid green;
+    color: green;
+    border-radius: 2em;
+    background-color: #282531;
+    padding: .3em;
+    font-size: 16px;
+}
